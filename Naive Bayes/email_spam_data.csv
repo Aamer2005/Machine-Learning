@@ -1,0 +1,17 @@
+Contains_Free,Contains_Offer,Contains_Win,Contains_Discount,Label
+Yes,Yes,No,Yes,Spam
+No,Yes,Yes,No,Spam
+Yes,No,No,No,Not Spam
+No,Yes,No,Yes,Not Spam
+Yes,Yes,Yes,Yes,Spam
+Yes,No,Yes,No,Spam
+No,No,No,No,Not Spam
+Yes,Yes,No,No,Spam
+No,Yes,Yes,Yes,Spam
+Yes,No,No,Yes,Not Spam
+No,No,Yes,No,Not Spam
+Yes,Yes,Yes,No,Spam
+No,Yes,No,No,Not Spam
+Yes,No,Yes,Yes,Spam
+No,No,No,Yes,Not Spam
+Yes,Yes,No,Yes,Spam
